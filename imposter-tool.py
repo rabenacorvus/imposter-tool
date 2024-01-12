@@ -17,7 +17,7 @@ def random_words(filepath, n):
                     selected_words.add(word)
                     result.append(word)
             return result
-    except FileNotFoundError: # error in if text files are missing
+    except FileNotFoundError: # error in case text files are missing
         return print("File not found. Sorry.") 
     
 # function to print a table with numbers in the first column and words in the second one
@@ -37,6 +37,7 @@ def count_lines_in_file(file_path):
         return line_count
     except FileNotFoundError:
         return 0
+        
 # function to plot the total number of words in defined text files that contain words of different complexity
 def plot_words():
     file_paths = ["easy_words.txt", "intermediate_words.txt", "hard_words.txt"]
