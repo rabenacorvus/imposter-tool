@@ -1,0 +1,257 @@
+Microscope
+Oscilloscope
+Spectrophotometer
+Centrifuge
+Mass spectrometer
+Chromatograph
+Particle accelerator
+NMR (Nuclear Magnetic Resonance) machine
+Geiger-Muller counter
+X-ray machine
+Telescope
+Laser cutter
+3D printer
+Electron microscope
+Thermal imaging camera
+Atomic force microscope
+Gas chromatograph-mass spectrometer (GC-MS)
+Differential scanning calorimeter (DSC)
+Infrared spectrometer
+DNA sequencer
+Gas chromatograph
+Liquid chromatograph
+UV-Vis spectrophotometer
+pH meter
+Flow cytometer
+Genetic analyzer
+Sonar equipment
+GPS receiver
+Thermal cycler (PCR machine)
+HPLC (High-Performance Liquid Chromatography) system
+Environmental chamber
+Electrophoresis apparatus
+Bioreactor
+Electrocardiogram (ECG or EKG) machine
+Pulse oximeter
+Magnetic Resonance Imaging (MRI) machine
+Atomic absorption spectrometer
+Gas analyzer
+Fiber optic spectrometer
+Autoclave
+Incubator
+Cryostat
+Proton exchange membrane fuel cell
+Geothermal power plant
+Tensile testing machine
+Fourier Transform Infrared (FTIR) spectrometer
+Rheometer
+Scanning electron microscope (SEM)
+Transmission electron microscope (TEM)
+Atomic absorption spectrophotometer
+Blood gas analyzer
+Gas chromatograph-flame ionization detector (GC-FID)
+Microwave oven
+Electron paramagnetic resonance (EPR) spectrometer
+Electroencephalogram (EEG) machine
+Rotavapor
+Inverted microscope
+Surface profilometer
+Fume hood
+Turbidity meter
+Robin
+Sparrow
+Eagle
+Hawk
+Blue Jay
+Cardinal
+Crow
+Finch
+Pigeon
+Hummingbird
+Osprey
+Owl
+Pelican
+Woodpecker
+Seagull
+Penguin
+Falcon
+Albatross
+Swallow
+Canary
+Parrot
+Kingfisher
+Magpie
+Wren
+Heron
+Puffin
+Cormorant
+Kiwi
+Kookaburra
+Stork
+Crane
+Swift
+Warbler
+Toucan
+Snowy Owl
+Blackbird
+Grebe
+Nuthatch
+Flamingo
+Brazil
+Canada
+Japan
+Australia
+Germany
+Mexico
+Egypt
+South Korea
+Nigeria
+Argentina
+Sweden
+Indonesia
+Russia
+Peru
+Iran
+Thailand
+Poland
+South Africa
+Turkey
+Chile
+Vietnam
+Saudi Arabia
+Ukraine
+Netherlands
+Malaysia
+Colombia
+Philippines
+Kenya
+Belgium
+Venezuela
+Switzerland
+New Zealand
+Portugal
+Truculence  
+Ineluctability  
+Serendipity 
+Obfuscation 
+Garrulity   
+Inscrutability  
+Propinquity 
+Nonchalance 
+Perspicacity
+Inefficacy  
+Prevarication   
+Clandestineness 
+Reticence   
+Equanimity  
+Ostracism   
+Procrastination 
+Ebullience  
+Alacrity
+Inefficiency
+Mellifluence
+Exacerbation
+Ineffaceability 
+Capitulation
+Bellicosity 
+Quagmire
+Ephemeral  
+Sycophancy  
+Precariousness  
+Quotidian   
+Diaphanousness  
+Redolence   
+Hamburger
+Hot Dog
+Buffalo Wings
+Clam Chowder
+Apple Pie
+BBQ Ribs
+Macaroni and Cheese
+Pancakes
+Cornbread
+Fried Chicken
+Texas Chili
+Reuben Sandwich
+Caesar Salad
+Lobster Roll
+Philly Cheesesteak
+Key Lime Pie
+Gumbo
+Tater Tots
+Biscuits and Gravy
+New England Clam Bake
+Paella (Spain)
+Fish and Chips (United Kingdom)
+Croissant (France)
+Pizza (Italy)
+Sauerkraut and Sausages (Germany)
+Moussaka (Greece)
+Goulash (Hungary)
+Tapas (Spain)
+Schnitzel (Austria)
+Ratatouille (France)
+Pierogi (Poland)
+Borscht (Russia)
+Spanakopita (Greece)
+Risotto (Italy)
+Sauerbraten (Germany)
+Ceviche (Spain)
+Bouillabaisse (France)
+Shepherd's Pie (United Kingdom)
+Poutine (Canada)
+Smørrebrød (Denmark)
+Femur
+Tibia
+Radius
+Ulna
+Humerus
+Vertebra
+Clavicle
+Scapula
+Sternum
+Phalanges
+Patella
+Mandible
+Cranium
+Pelvis
+Coccyx
+Sacrum
+Cartilage
+Ligament
+Tendon
+Artery
+Quartz
+Feldspar
+Mica
+Calcite
+Gypsum
+Halite
+Magnetite
+Pyrite
+Hematite
+Bauxite
+Galena
+Sphalerite
+Fluorite
+Topaz
+Tourmaline
+Garnet
+Olivine
+Rutile
+Malachite
+Azurite
+Beryl
+Barite
+Chalcopyrite
+Lepidolite
+Muscovite
+Hornblende
+Orthoclase
+Corundum
+Serpentine
+Kaolinite
+Dolomite
+Apatite
+Jadeite
+Siderite
