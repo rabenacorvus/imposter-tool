@@ -23,3 +23,4 @@ This tool was part of an assignment for a university course that defined the len
 * give the option for a more detailed explanation of the game
 * option to export a print-ready file of the lists
 * have the plotted bars be labeled "easy", "intermediate" and "hard" instead of the file name.
+* if there are duplicates in the text files and there are less unique words than requested, the total number of words in the created list isn't equal to the number from the input. I'd probably like to have an error message for this case, even though of course the lists themselves should be full of unique words to start with...
