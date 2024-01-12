@@ -25,6 +25,7 @@ def print_table_words(words):
     if not words:
         return
     print("{:<10}{:<20}".format("Number","Word")) 
+    print("-"*30) 
     for i, line in enumerate(words, start=1):
         print("{:<10}{:<20}".format(i,line))
         
